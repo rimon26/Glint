@@ -1,0 +1,36 @@
+/*
+
+Breakpoints: 
+- Tablet = 770px;
+- Mobile = 480px;
+
+*/
+
+/* @media screen and (max-width: 770px) {
+} */
+
+@media screen and (max-width: 480px) {
+  .logo h2 {
+    font-size: 24px;
+  }
+
+  .dot {
+    font-size: 24px;
+  }
+
+  .hero h4 {
+    font-size: 16px;
+  }
+
+  .hero h2 {
+    font-size: 44px;
+  }
+
+  .navbar-container {
+    padding: 20px;
+  }
+
+  .hero-buttons button {
+    font-size: 16px;
+  }
+}
