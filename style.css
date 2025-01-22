@@ -130,8 +130,13 @@ header::before {
   font-weight: 600;
 }
 
+.typewrite {
+  color: var(--primary-color);
+  margin-left: 15px;
+}
+
 .hero-buttons {
-  margin-top: 70px;
+  margin-top: 50px;
 }
 
 .hero-buttons button {
@@ -151,4 +156,12 @@ header::before {
 
 .hero-buttons .btn2 {
   margin-left: 15px;
+}
+
+.auto-type {
+  color: var(--primary-color);
+}
+
+.typed-cursor {
+  color: var(--primary-color);
 }
