@@ -6,8 +6,11 @@ Breakpoints:
 
 */
 
-/* @media screen and (max-width: 770px) {
-} */
+@media screen and (max-width: 770px) {
+  .about-text {
+    margin-top: 40px;
+  }
+}
 
 @media screen and (max-width: 480px) {
   .logo h2 {
