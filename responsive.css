@@ -48,4 +48,8 @@ Breakpoints:
   .hero-buttons button {
     font-size: 16px;
   }
+
+  .services-card {
+    width: 90%;
+  }
 }
