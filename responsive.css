@@ -10,6 +10,18 @@ Breakpoints:
   .about-text {
     margin-top: 40px;
   }
+
+  .counter2 {
+    border: none;
+  }
+
+  .services-crad-cont {
+    flex-direction: column;
+  }
+
+  .services-card {
+    width: 70%;
+  }
 }
 
 @media screen and (max-width: 480px) {
